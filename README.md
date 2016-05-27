@@ -1,2 +1,5 @@
 # hello-world
-this is my world ;-)
+
+Hi people!
+My name is Arthur and welcome to my world :)
+
